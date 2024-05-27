@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the capital of Germany?",
+        "answer": "Berlin"
+    },
+    {
+        "question": "What is the smollest planet in our solar system?",
+        "answer": "Mercury"
+    },
+    {
+        "question": "Who wrote 'Titanic'?",
+        "answer": "James Cameron"
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "What’s the smallest country in the world?",
+        "answer": "The Vatican"
+    },
+    {
+        "question": "What is the tallest mammal?",
+        "answer": "365"
+    },
+    {
+        "question": "How many days does it take for the Earth to orbit the Sun?",
+        "answer": "Japan"
+    },
+    {
+        "question": "Who invented the first airplane?",
+        "answer": "Wright brothers"
+    },
+    {
+        "question": "Where is the lowest natural place on planet Earth?",
+        "answer": "The Mariana Trench"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "answer": "Tim Berners-Lee, 1990"
+    },
+    {
+        "question": "Who invented the World Wide Web, and when?",
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "Where is Billie Eilish from?",
+        "answer": "Los Angeles"
+    },
+    {
+        "question": "How many keys does a classic piano have?",
+        "answer": "88"
+    },
+    {
+        "question": "Where was the first modern Olympic Games held?",
+        "answer": "Athens, 1896"
+    },
+    {
+        "question": "When was Netflix founded?",
+        "answer": "1997"
+    },
+    {
+        "question": "Who was the first person to step on the moon?",
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "Where did sushi originate?",
+        "answer": "China"
+    },
+    {
+        "question": "What city is known as The Eternal City?",
+        "answer": "Rome"
+    },
+    {
+        "question": "How many minutes are in a full week?",
+        "answer": "10080"
+    },
+    {
+        "question": "What country has the highest life expectancy?",
+        "answer": "Hong kong"
+    }
+]
